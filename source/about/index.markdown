@@ -9,7 +9,7 @@ footer: true
 
 <div>
 <img src="/images/sai.jpg" align="left" width="199" height="250" />
-Programmer, Hacker, Tinkerer. Love to break things &amp; build things. I have worked with Nokia &amp; Yahoo! My primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/blog</a>.
+Researcher, Programmer & Tinkerer. Love to break things &amp; build things. I have worked with Nokia &amp; Yahoo! My primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/blog</a>.
 <br /> <br />
 I am now pursuing a PhD with the <a href="http://www.cs.ucr.edu/index.php">Department of Computer Science</a> at <a href="http://www.ucr.edu">UC Riverside</a>. My advisor is <a href="http://www.cs.ucr.edu/~gupta/">Prof. Rajiv Gupta</a>.
 <br /> <br />
