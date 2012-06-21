@@ -5,7 +5,7 @@ sharing: true
 footer: true
 ---
 
-[Bio](#bio) | [Education](#ed) | [Experience](#exp) | [Resume](#resume)
+[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Resume](#resume)
 
 <a name="bio">Biography</a> 
 ------------
@@ -18,21 +18,29 @@ You can find him on <a rel="me" href="https://plus.google.com/111168674571731850
 
 He can be reached at <a title="e-mail Sai Charan" target="_self" href="mailto:scharan-nospam-cs.ucr.edu">scharan  at cs.ucr.edu</a>
 
+<a name="awards">Awards</a> 
+------------
++ Youngest Member, Nokia Technical Committee – an elite body headed by the Director of Technology, Nokia, Bangalore, responsible for reviewing emerging technologies and their relevance to Nokia; early prototyping of pertinent technologies and recommending their adoption in products.
++ Nokia Kudos awards for turbo boosting the performance of Device Search project & for independent research and shipping of Nokia’s SSO project. Dec ’09 & Mar ’10.
++ President of India, Dr. A. P. J. Abdul Kalam _Gold Medal_ for excellence in M.Tech (CS). Nov 2008.
++ Sri R.V. Janakiramaiah _Gold Medal_ for excellence in M.Sc. (Math with specialization in CS). Nov 2006.
++ Justice P.N. Bhagawati _Gold Medal_ for excellence in the B.Sc. Honors (Mathematics). Nov 2004.
+
 <a name="exp">Experience</a>
 ---------
-+ Sr. Software Engineer, Yahoo! Inc. Bangalore. Jun 2010 - Feb 2011.
-+ R&amp;D Software Engineer, Nokia, Bangalore. April 2008 - Jun 2010.
-+ System &amp; Network Administrator, [DMACS](http://sssihl.edu.in/dnn/Campuses/PrasanthiNilayamCampus/Departments/DepartmentofMathematicsAndComputerScience/Overview/tabid/262/Default.aspx), [SSSIHL](http://sssihl.edu.in). 2006 - 2008.
-+ Webmaster, [DMACS](http://sssihl.edu.in/dnn/Campuses/PrasanthiNilayamCampus/Departments/DepartmentofMathematicsAndComputerScience/Overview/tabid/262/Default.aspx), [SSSIHL](http://sssihl.edu.in). 2006 - 2008.
++ _Senior Software Engineer_, **Yahoo! Inc.**, Bangalore. Jun 2010 - Feb 2011.
++ _R&amp;D Software Engineer_, **Nokia**, Bangalore. April 2008 - Jun 2010.
++ _System &amp; Network Administrator_, [Dept. of Mathematics &amp; Computer Science](http://sssihl.edu.in/dnn/Campuses/PrasanthiNilayamCampus/Departments/DepartmentofMathematicsAndComputerScience/Overview/tabid/262/Default.aspx), [SSSIHL](http://sssihl.edu.in). 2004 - 2008.
++ _Webmaster_, [Department of Mathematics &amp; Computer Science](http://sssihl.edu.in/dnn/Campuses/PrasanthiNilayamCampus/Departments/DepartmentofMathematicsAndComputerScience/Overview/tabid/262/Default.aspx), [SSSIHL](http://sssihl.edu.in). 2004 - 2008.
 
 <a name="ed">Education</a>
 ---------
 + Doctor of Philosophy, **Computer Science**. University of California, Riverside. In progress.
-+ Master of Technology, **Computer Science**. _Summa-cum-laude_. Sri Sathya Sai University, 2008.
++ Master of Technology, **Computer Science**. _Summa-cum-laude_, Sri Sathya Sai University, 2008.
 + Master of Science, **Mathematics with specialization in CS**. _Summa-cum-laude_, Sri Sathya Sai University, 2006.
 + Bachelor of Science (Honors), **Mathematics**. _Summa-cum-laude_, Sri Sathya Sai University, 2004.
 
 <a name="resume">Resume</a>
 ------
-My current [resume](/assets/SaiCharan.pdf).
+Sai's [resume](/assets/SaiCharan.pdf) (last updated: 06/20/2012).
 
