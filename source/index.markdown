@@ -1,6 +1,5 @@
 ---
 layout: page
-date: 2012-03-18 13:44
 comments: false
 sharing: false
 footer: true
@@ -14,4 +13,4 @@ His interests include compiler &amp; language support for parallelization, runti
 
 His advisor &amp; Principle Investigator is [Prof. Rajiv Gupta](http://www.cs.ucr.edu/~gupta).
 
-Feel free to explore his [thoughts](http://www.cs.ucr.edu/~scharan/blog) [about](http://www.cs.ucr.edu/~scharan/about) [research](http://www.cs.ucr.edu/~scharan/research).
+Check out his <a rel="author" href="http://www.cs.ucr.edu/~scharan/about/">bio</a>, [research](http://www.cs.ucr.edu/~scharan/research) & [thoughts](http://www.cs.ucr.edu/~scharan/blog) in general.
