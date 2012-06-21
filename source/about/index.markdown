@@ -14,7 +14,7 @@ Sai Charan is a researcher, programmer, hacker & 'tinkerer'. He loves to build t
 
 Currently, Sai is now pursuing a doctorate with the <a href="http://www.cs.ucr.edu/index.php">Department of Computer Science</a> at <a href="http://www.ucr.edu">University of California, Riverside</a>. His advisor is <a href="http://www.cs.ucr.edu/~gupta/">Prof. Rajiv Gupta</a>.
 
-You can find him on <a rel="me" href="https://plus.google.com/111168674571731850317">Google+</a> Twitter at&nbsp;<a title="Twitter" target="_blank" href="https://twitter.com/scharan">@scharan</a>, on&nbsp;<a title="LinkedIn profile" target="_blank" href="http://www.linkedin.com/in/scharan">LinkedIn</a>&nbsp;&amp;&nbsp;on github at&nbsp;<a title="Github" target="_blank" href="https://github.com/scharan">/scharan</a>.
+You can find him on <a rel="me" href="https://plus.google.com/111168674571731850317">Google+</a>, <a title="Twitter" target="_blank" href="https://twitter.com/scharan">Twitter</a>, <a title="LinkedIn profile" target="_blank" href="http://www.linkedin.com/in/scharan">LinkedIn</a> and on <a title="Github" target="_blank" href="https://github.com/scharan">Github</a>.
 
 He can be reached at <a title="e-mail Sai Charan" target="_self" href="mailto:scharan-nospam-cs.ucr.edu">scharan  at cs.ucr.edu</a>
 
