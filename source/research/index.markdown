@@ -1,6 +1,8 @@
 ---
 layout: page
 comments: false
+date: 2012-06-20 07:41
+title: Research
 sharing: true
 footer: true
 ---
@@ -21,5 +23,5 @@ footer: true
 
 <a name="scholar">Scholar</a>
 ------------
-Explore Sai Charan's work on [Google Scholar](http://scholar.google.com/citations?hl=en&user=3ucgckUAAAAJ).
+Explore Sai Charan's work on [Google Scholar](http://scholar.google.com/citations?hl=en&user=3ucgckUAAAAJ) or [Microsoft academic search](http://academic.research.microsoft.com/Author/3838605/sai-charan-koduru).
 

@@ -1,6 +1,8 @@
 ---
 layout: page
 comments: false
+date: 2012-06-20 07:41
+title: "About Sai"
 sharing: true
 footer: true
 ---
@@ -10,7 +12,7 @@ footer: true
 <a name="bio">Biography</a> 
 ------------
 
-Sai Charan is a researcher, programmer, hacker & 'tinkerer'. He loves to build things &amp; break things (constructively, of course!). In the past, he has held full-time positions with Nokia &amp; Yahoo! His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/blog</a>.
+Sai Charan is a researcher, programmer, [hacker](http://en.wikipedia.org/wiki/Hacker_(programmer_subculture\)) & 'tinkerer'. He loves to build things &amp; break things ([constructively](http://www.paulgraham.com/gh.html), of course!). In the past, he has held full-time positions with Nokia &amp; Yahoo! His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/blog</a>.
 
 Currently, Sai is now pursuing a doctorate with the <a href="http://www.cs.ucr.edu/index.php">Department of Computer Science</a> at <a href="http://www.ucr.edu">University of California, Riverside</a>. His advisor is <a href="http://www.cs.ucr.edu/~gupta/">Prof. Rajiv Gupta</a>.
 

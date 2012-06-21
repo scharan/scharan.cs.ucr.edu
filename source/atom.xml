@@ -17,9 +17,13 @@ layout: nil
 
   {% for page in site.pages limit: 20 %}
   <entry>
+    {% if page.title %}
     <title type="html"><![CDATA[{{ page.title | cdata_escape }}]]></title>
+    {% endif %}
     <link href="{{ site.url }}{{ page.url }}"/>
-    <updated>{{ page.date | date_to_xmlschema }}</updated>
+    {% if page.date %}
+    <updated>{{ page.date }}</updated>
+    {% endif %}
     <id>{{ site.url }}{{ page.id }}</id>
     <content type="html"><![CDATA[{{ page.content | expand_urls: site.url | cdata_escape }}]]></content>
   </entry>
