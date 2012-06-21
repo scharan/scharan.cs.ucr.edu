@@ -15,6 +15,16 @@ layout: nil
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  {% for page in site.pages limit: 20 %}
+  <entry>
+    <title type="html"><![CDATA[{{ page.title | cdata_escape }}]]></title>
+    <link href="{{ site.url }}{{ page.url }}"/>
+    <updated>{{ page.date | date_to_xmlschema }}</updated>
+    <id>{{ site.url }}{{ page.id }}</id>
+    <content type="html"><![CDATA[{{ page.content | expand_urls: site.url | cdata_escape }}]]></content>
+  </entry>
+  {% endfor %}
+
   {% for post in site.posts limit: 20 %}
   <entry>
     <title type="html"><![CDATA[{{ post.title | cdata_escape }}]]></title>
