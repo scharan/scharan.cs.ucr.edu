@@ -21,5 +21,5 @@ footer: true
 
 <a name="scholar">Scholar</a>
 ------------
-Sai Charan on [Google Scholar](http://scholar.google.com/citations?hl=en&user=3ucgckUAAAAJ)
+Explore Sai Charan's work on [Google Scholar](http://scholar.google.com/citations?hl=en&user=3ucgckUAAAAJ).
 
