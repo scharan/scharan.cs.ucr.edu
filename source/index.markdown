@@ -9,7 +9,7 @@ footer: true
 
 <div>
 
-<div style="width: 70%; float: left">
+<div style="width: 75%; float: left">
 <p>Sai Charan is a Ph.D. candidate with the <a href="http://riple.cs.ucr.edu/">RIPLE</a> lab at the <a href="http://www.cs.ucr.edu">Computer Science</a> department at <a href="http://www.ucr.edu">University of California, Riverside</a>.</p>
 
 <p>His interests include compiler &amp; language support for parallelization, runtime monitoring support for parallel applications, GPGPU programming models and software engineering.</p>
