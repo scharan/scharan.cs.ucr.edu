@@ -7,18 +7,18 @@ sharing: true
 footer: true
 ---
 
-[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Resume](#resume)
+[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Resume](#resume) | [Recommendations](#reco)
 
 <a name="bio">Biography</a> 
 ------------
 
-Sai Charan is a researcher, programmer, [hacker](http://en.wikipedia.org/wiki/Hacker_(programmer_subculture\)) & 'tinkerer'. He loves to build things &amp; break things ([constructively](http://www.paulgraham.com/gh.html), of course!). In the past, he has held full-time positions with Nokia &amp; Yahoo! His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/blog</a>.
+Sai Charan is a researcher, [programmer](http://www.paulgraham.com/head.html), [hacker](http://en.wikipedia.org/wiki/Hacker_(programmer_subculture\)) & 'tinkerer'. He loves to build things &amp; break things ([constructively](http://www.paulgraham.com/gh.html), of course!). In the past, he has held full-time positions as an R&amp;D Software Engineer with [Nokia](http://www.nokia.com/) &amp; a Senior Software Engineer at [Yahoo! Inc](http://smallbusiness.yahoo.com/). Sai's professional experience spans resource constrained mobile platforms to the unconstrained enterprise elastic cloud. He has extensive experience with mobile development, design &amp; integration of web services for the mobile platforms, performance tuning &amp; search technologies. He has also worked on enterprise payment systems, enterprise application security, [HTML generation technologies](http://en.wikipedia.org/wiki/RTML) &amp; small business portal design &amp; development.
 
 Currently, Sai is now pursuing a doctorate with the <a href="http://www.cs.ucr.edu/index.php">Department of Computer Science</a> at <a href="http://www.ucr.edu">University of California, Riverside</a>. His advisor is <a href="http://www.cs.ucr.edu/~gupta/">Prof. Rajiv Gupta</a>.
 
 You can find him on <a rel="me" href="https://plus.google.com/111168674571731850317">Google+</a>, <a title="Twitter" target="_blank" href="https://twitter.com/scharan">Twitter</a>, <a title="LinkedIn profile" target="_blank" href="http://www.linkedin.com/in/scharan">LinkedIn</a> and on <a title="Github" target="_blank" href="https://github.com/scharan">Github</a>.
 
-He can be reached at <a title="e-mail Sai Charan" target="_self" href="mailto:scharan-nospam-cs.ucr.edu">scharan  at cs.ucr.edu</a>
+His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/blog</a>. He can be reached at <a title="e-mail Sai Charan" target="_self" href="mailto:scharan-nospam-cs.ucr.edu">scharan  at cs.ucr.edu</a>
 
 <a name="awards">Awards</a> 
 ------------
@@ -45,4 +45,8 @@ He can be reached at <a title="e-mail Sai Charan" target="_self" href="mailto:sc
 <a name="resume">Resume</a>
 ------
 Sai's [resume](/assets/SaiCharan.pdf) (last updated: 06/20/2012).
+
+<a name="reco">Recommendations</a>
+------
+Sai's professional recommendations are on [LinkedIn](http://www.linkedin.com/profile/view?id=15463714#recommendations) (LinkedIn account required).
 

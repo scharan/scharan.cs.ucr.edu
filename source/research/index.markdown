@@ -6,8 +6,11 @@ title: Research
 sharing: true
 footer: true
 ---
+Sai Charan's doctoral research deals with programming language &amp; compiler support for parallel &amp; distributed computing. He briefly worked on runtime monitoring support for parallel programs. 
 
-[Publications](#pub) | [Theses](#theses) | [Scholar](#scholar)
+In the past, Sai proposed hyper-dimensional extensions of the [Baker's map](http://en.wikipedia.org/wiki/Baker's_map) to strengthen [Chaos theory](http://en.wikipedia.org/wiki/Chaos_theory) based image encryption. Sai also had a brief stint with [Optical Character Recognition](http://en.wikipedia.org/wiki/Optical_character_recognition) for his native [Telugu](http://en.wikipedia.org/wiki/Telugu_script) script using the [Discrete Cosine Transform](http://en.wikipedia.org/wiki/Discrete_cosine_transform).
+
+This page lists Sai' [publications](#pub), [theses](#theses) &amp; [scholar links](#scholar).
 
 <a name="pub">Publications</a>
 ------------
