@@ -30,6 +30,7 @@ His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/bl
 
 <a name="exp">Experience</a>
 ---------
++ _Research Assistant_, **University of California**, Riverside. March 2011 - present.
 + _Senior Software Engineer_, **Yahoo! Inc.**, Bangalore. Jun 2010 - Feb 2011.
 + _R&amp;D Software Engineer_, **Nokia**, Bangalore. April 2008 - Jun 2010.
 + _System &amp; Network Administrator_, [Dept. of Mathematics &amp; Computer Science](http://sssihl.edu.in/dnn/Campuses/PrasanthiNilayamCampus/Departments/DepartmentofMathematicsAndComputerScience/Overview/tabid/262/Default.aspx), [SSSIHL](http://sssihl.edu.in). 2004 - 2008.
