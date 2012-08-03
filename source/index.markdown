@@ -1,7 +1,6 @@
 ---
 layout: page
 comments: false
-date: 2012-06-20 07:41
 title: Sai Charan, UC Riverside.
 sharing: false
 footer: true

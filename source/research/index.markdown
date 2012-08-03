@@ -1,7 +1,6 @@
 ---
 layout: page
 comments: false
-date: 2012-06-20 07:41
 title: Research
 sharing: true
 footer: true

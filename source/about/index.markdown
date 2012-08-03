@@ -1,13 +1,12 @@
 ---
 layout: page
 comments: false
-date: 2012-06-20 07:41
 title: "About Sai"
 sharing: true
 footer: true
 ---
 
-[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Résumé](#resume) | [Recommendations](#reco)
+[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Résumé](#resume) | [Recommendations](#reco) | [Contact](#contact)
 
 <a name="bio">Biography</a> 
 ------------
@@ -50,4 +49,8 @@ Sai's [résumé](/assets/SaiCharan.pdf) (last updated: 06/20/2012).
 <a name="reco">Recommendations</a>
 ------
 Sai's professional recommendations are on [LinkedIn](http://www.linkedin.com/profile/view?id=15463714#recommendations) (LinkedIn account required).
+
+<a name="contact">Contact</a>
+------
+Sai can be reached at [scharan-a@t-cs.ucr.edu](mailto:scharan-a@t-cs.ucr.edu). For additional privacy, please use his [PGP Key](http://www.saicharan.in/work/saicharan-pgp.asc).
 
