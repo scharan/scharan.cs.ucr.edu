@@ -7,7 +7,7 @@ sharing: true
 footer: true
 ---
 
-[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Resume](#resume) | [Recommendations](#reco)
+[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Résumé](#resume) | [Recommendations](#reco)
 
 <a name="bio">Biography</a> 
 ------------
@@ -43,9 +43,9 @@ His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/bl
 + Master of Science, **Mathematics with specialization in CS**. _Summa-cum-laude_, Sri Sathya Sai University, 2006.
 + Bachelor of Science (Honors), **Mathematics**. _Summa-cum-laude_, Sri Sathya Sai University, 2004.
 
-<a name="resume">Resume</a>
+<a name="resume">Résumé</a>
 ------
-Sai's [resume](/assets/SaiCharan.pdf) (last updated: 06/20/2012).
+Sai's [résumé](/assets/SaiCharan.pdf) (last updated: 06/20/2012).
 
 <a name="reco">Recommendations</a>
 ------
