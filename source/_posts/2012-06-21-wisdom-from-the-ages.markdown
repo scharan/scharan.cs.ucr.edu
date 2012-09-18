@@ -11,6 +11,7 @@ Most doctoral candidates and professors have a page with advice/guidance to pros
 + [You and your research](http://www.cs.utexas.edu/~dahlin/bookshelf/hamming.html), Richard Hamming.
 + [The Ph.D experience](http://cseweb.ucsd.edu/users/mihir/phd.html), Mihir Bellare, UCSD.
 + [Cargo cult science](http://www.lhup.edu/~DSIMANEK/cargocul.htm), Richard Feynman.
++ [Some Modest Advice for Graduate Students](http://www.eeb.yale.edu/stearns/advice.htm), Stephen C. Stearns.
 
 A more complete, comprehensive collection is Prof. Mark Leone's [how-to](http://www.cs.cmu.edu/~mleone/how-to.html) page.
 
