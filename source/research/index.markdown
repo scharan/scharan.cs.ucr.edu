@@ -18,6 +18,7 @@ This page lists Sai' [publications](#pub), [theses](#theses) &amp; [scholar link
 
 <a name="pub">Publications</a>
 ------------
++ An Empirical Analysis of the Bug-fixing Process in Open Source Android Apps, Pamela Bhattacharya, Liudmila Ulanova, Iulian Neamtiu and **Sai Charan Koduru**, 17th European Conference on Software Maintenance and Reengineering (CSMR 2013). ([To appear](#)) March 2013, Genova, Italy.
 + N-Dimensional Baker Maps for Chaos Based Image Encryption, **Sai Charan** & V. Chandrasekaran, Proceedings of IEEE ICETiC 2009, pp 31-34 (Oral track). ([draft](/assets/Integrated.Confusion-Diffusion.Mechanisms.for.Chaos.Based.Image.Encryption.IEEE.CIT.08.pdf)) January 8th – 10th, 2009.
 + Random-Walk based Baker maps for Chaos Based Image Encryption, **Sai Charan** & V. Chandrasekaran, IPCV 2008 Monte Carlo Resort, Las Vegas, Nevada, USA. ([link to proceedings](http://nguyendangbinh.org/Proceedings/IPCV08/Papers/IPC3229.pdf)). July 14th – 17th, 2008.
 + Integrated Confusion-Diffusion Mechanisms for Chaos Based Image Encryption, **Sai Charan** & V. Chandrasekaran, IEEE CIT 2008, Sydney, Australia ([link on IEEE Xplore](http://ieeexplore.ieee.org/iel5/4568461/4568462/04568513.pdf)). July 8th – 11th, 2008
