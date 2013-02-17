@@ -37,7 +37,7 @@ His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/bl
 
 <a name="ed">Education</a>
 ---------
-+ Doctor of Philosophy, **Computer Science**. University of California, Riverside. In progress.
++ Doctor of Philosophy, **Computer Science**. University of California, Riverside. April 2008 -- present.
 + Master of Technology, **Computer Science**. _Summa-cum-laude_, Sri Sathya Sai University, 2008.
 + Master of Science, **Mathematics with specialization in CS**. _Summa-cum-laude_, Sri Sathya Sai University, 2006.
 + Bachelor of Science (Honors), **Mathematics**. _Summa-cum-laude_, Sri Sathya Sai University, 2004.
