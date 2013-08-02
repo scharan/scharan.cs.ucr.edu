@@ -11,7 +11,7 @@ footer: true
 <a name="bio">Biography</a> 
 ------------
 
-Sai Charan is a researcher, [programmer](http://www.paulgraham.com/head.html), [hacker](http://en.wikipedia.org/wiki/Hacker_(programmer_subculture\)) & 'tinkerer'. He loves to build things &amp; break things ([constructively](http://www.paulgraham.com/gh.html), of course!). In the past, he has held full-time positions as an R&amp;D Software Engineer with [Nokia](http://www.nokia.com/) &amp; a Senior Software Engineer at [Yahoo! Inc](http://smallbusiness.yahoo.com/). Sai's professional experience spans resource constrained mobile platforms to the unconstrained enterprise elastic cloud. He has extensive experience with mobile development, design &amp; integration of web services for the mobile platforms, performance tuning &amp; search technologies. He has also worked on enterprise payment systems, enterprise application security, [HTML generation technologies](http://en.wikipedia.org/wiki/RTML) &amp; small business portal design &amp; development.
+Sai Charan is a researcher, [programmer](http://www.paulgraham.com/head.html), [hacker](http://en.wikipedia.org/wiki/Hacker_(programmer_subculture\)) & 'tinkerer'. He loves to build things &amp; break things ([constructively](http://www.paulgraham.com/gh.html), of course!). In the past, he has held full-time positions as an R&amp;D Software Engineer with [Nokia](http://www.nokia.com/) &amp; a Senior Software Engineer at [Yahoo! Inc](http://smallbusiness.yahoo.com/). He spent the summer of 2013 as a Researcher (intern) at Microsoft, Redmond. Sai's professional experience spans resource constrained mobile platforms to the unconstrained enterprise elastic cloud. He has extensive experience with mobile development, design &amp; integration of web services for the mobile platforms, performance tuning &amp; search technologies. He has also worked on enterprise payment systems, enterprise application security, [HTML generation technologies](http://en.wikipedia.org/wiki/RTML) &amp; small business portal design &amp; development.
 
 Currently, Sai is now pursuing a doctorate with the <a href="http://www.cs.ucr.edu/index.php">Department of Computer Science</a> at <a href="http://www.ucr.edu">University of California, Riverside</a>. His advisor is <a href="http://www.cs.ucr.edu/~gupta/">Prof. Rajiv Gupta</a>.
 
@@ -29,6 +29,7 @@ His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/bl
 
 <a name="exp">Experience</a>
 ---------
++ _Researcher (Intern)_, **Microsoft**, Redmond. Jun - Sep 2013.
 + _Research Assistant_, **University of California**, Riverside. March 2011 - present.
 + _Senior Software Engineer_, **Yahoo! Inc.**, Bangalore. Jun 2010 - Feb 2011.
 + _R&amp;D Software Engineer_, **Nokia**, Bangalore. April 2008 - Jun 2010.
