@@ -8,6 +8,7 @@ footer: true
 
 Sai's [research page](/research/) has the details.
 
+- Mar 14, 2014: Paper accepted into HIPS 2014: __'ABC<sup>2</sup>: Adaptively Balancing Computation & Communication in a DSM cluster of Multicores for Irregular Applications'__.
 - Jul 31, 2013: Paper accepted into PGAS 2013: __'Programming Large Dynamic Data Structures on a DSM Cluster of Multicores'__.
 - Jun - Sep 2013: Researcher (Intern), Microsoft, Redmond.
 - Feb 2013: Invited talk at COSMIC workshop at CGO 2013.
