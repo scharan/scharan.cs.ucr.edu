@@ -45,7 +45,7 @@ His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/bl
 
 <a name="resume">Résumé</a>
 ------
-Sai's [résumé](/assets/SaiCharan.pdf) (last updated: April 2014).
+Sai's [résumé](/assets/SaiCharan.pdf) (last updated: June 2014).
 
 <a name="reco">Recommendations</a>
 ------
