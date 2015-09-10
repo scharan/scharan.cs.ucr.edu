@@ -1,14 +1,13 @@
 ---
 layout: page
 comments: false
-title: Sai Charan's research log.
+title: Sai Charan's research log
 sharing: false
 footer: true
 ---
 
-Sai's [research page](/research/) has the details.
-
-- Sep 2015: Awarded the 'Best Student Paper' award at LCPC 2015.
+- Sep 2015: Awarded the 'Best Student Paper' at LCPC 2015.
+- Sep 2015: Presented paper at LCPC 2015.
 - Aug 2015: Paper acacepted into LCPC 2015. __'Size Oblivious Programming with Infinimem'__.
 - May 2015: Successfully defended my thesis proposal.
 - May 2015: Paper accepted into IEEE Cluster 2015. __'Optimizing Caching DSM for Distributed Software Speculation'__.
@@ -24,4 +23,6 @@ Sai's [research page](/research/) has the details.
 - Mar 2012: Completed all required course work (in 3 quarters); Submitted a joint paper on Analysis of Android Bug Reports.
 - Summer 2011: Worked monitoring & automatic configuration framework for multi-core processor environments.
 - Mar 2011: Started the PhD program at UC Riverside in the spring quarter.
+
+Sai's [research page](/research/) has the details.
 
