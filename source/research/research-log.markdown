@@ -8,6 +8,10 @@ footer: true
 
 Sai's [research page](/research/) has the details.
 
+- Sep 2015: Awarded the 'Best Student Paper' award at LCPC 2015.
+- Aug 2015: Paper acacepted into LCPC 2015. __'Size Oblivious Programming with Infinimem'__.
+- May 2015: Successfully defended my thesis proposal.
+- May 2015: Paper accepted into IEEE Cluster 2015. __'Optimizing Caching DSM for Distributed Software Speculation'__.
 - Jun - Sep 2014: Researcher (Intern), Microsoft, Redmond.
 - Presented paper at the IPDPS Workshop HIPS 2014.
 - Mar 14, 2014: Paper accepted into HIPS 2014: __'ABC<sup>2</sup>: Adaptively Balancing Computation & Communication in a DSM cluster of Multicores for Irregular Applications'__.

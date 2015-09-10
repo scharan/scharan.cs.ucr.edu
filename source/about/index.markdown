@@ -19,13 +19,18 @@ You can find him on <a rel="me" href="https://plus.google.com/111168674571731850
 
 His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/blog</a>. He can be reached at <a title="e-mail Sai Charan" target="_self" href="mailto:scharan-nospam-cs.ucr.edu">scharan  at cs.ucr.edu</a>
 
-<a name="awards">Awards</a> 
+<a name="awards">Honors &amp; Awards</a> 
 ------------
-+ Youngest Member, Nokia Technical Committee – an elite body headed by the Director of Technology, Nokia, Bangalore, responsible for reviewing emerging technologies and their relevance to Nokia; early prototyping of pertinent technologies and recommending their adoption in products.
-+ Nokia Kudos awards for turbo boosting the performance of Device Search project & for independent research and shipping of Nokia’s SSO project. Dec ’09 & Mar ’10.
-+ President of India, Dr. A. P. J. Abdul Kalam _Gold Medal_ for excellence in M.Tech (CS). Nov 2008.
-+ Sri R.V. Janakiramaiah _Gold Medal_ for excellence in M.Sc. (Math with specialization in CS). Nov 2006.
-+ Justice P.N. Bhagawati _Gold Medal_ for excellence in the B.Sc. Honors (Mathematics). Nov 2004.
++ _**Best Student Paper Award**_, The 28th International Workshop on Languages and Compilers for Parallel Computing ([LCPC](http://www.csc2.ncsu.edu/workshops/lcpc2015/)), 2015.
++ _**University of California Riverside Graduate Student Association (GSA-UCR) [Travel Grant](http://gsa.ucr.edu/conference-travel-grants/)**_ to present our research at the HIPS workshop at IPDPS 2014.
++ _**Earle C. Anthony Graduate [Travel Award](http://senate.ucr.edu/gsta/application.html)**_ to present our research at the HIPS workshop at IPDPS 2014.
++ _**CGO 2013 [Travel Grant](http://cgo.org/cgo2013/travel-support-for-eligible-students/index.html)**_ to present our research at the 2013 International Symposium on Code Generation & Optimization (CGO) workshop, COSMIC at Shenzhen, China.
++ _**Dean’s Distinguished Fellowship**_ 2011 for the Graduate program at the University of California, Riverside.
++ _Youngest Member, Nokia Technical Committee_ – an elite body headed by the Director of Technology, Nokia, Bangalore, responsible for reviewing emerging technologies and their relevance to Nokia; early prototyping of pertinent technologies and recommending their adoption in products.
++ _**Nokia Kudos**_ awards (two awards) for turbo boosting the performance of Device Search project & for independent research and shipping of Nokia’s SSO project. Dec ’09 & Mar ’10.
++ _**President of India, Dr. A. P. J. Abdul Kalam Gold Medal**_ for excellence in M.Tech (CS). Nov 2008.
++ _**Sri R.V. Janakiramaiah Gold Medal**_ for excellence in M.Sc. (Math with specialization in CS). Nov 2006.
++ _**Justice P.N. Bhagawati Gold Medal**_ for excellence in the B.Sc. Honors (Mathematics). Nov 2004.
 
 <a name="exp">Experience</a>
 ---------
@@ -38,14 +43,14 @@ His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/bl
 
 <a name="ed">Education</a>
 ---------
-+ Doctor of Philosophy, **Computer Science**. University of California, Riverside. April 2008 -- present.
++ Doctor of Philosophy, **Computer Science**. University of California, Riverside. April 2008 -- Sep 2015 (expected).
 + Master of Technology, **Computer Science**. _Summa-cum-laude_, Sri Sathya Sai University, 2008.
 + Master of Science, **Mathematics with specialization in CS**. _Summa-cum-laude_, Sri Sathya Sai University, 2006.
 + Bachelor of Science (Honors), **Mathematics**. _Summa-cum-laude_, Sri Sathya Sai University, 2004.
 
 <a name="resume">Résumé</a>
 ------
-Sai's [résumé](/assets/SaiCharan.pdf) (last updated: June 2014).
+Sai's [résumé](/assets/SaiCharan.pdf) (last updated: September 2015).
 
 <a name="reco">Recommendations</a>
 ------
