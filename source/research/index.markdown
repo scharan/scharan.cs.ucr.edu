@@ -10,11 +10,11 @@ footer: true
 
 <a name="summary">Research: Interests & Summary</a>
 ----------
-Sai Charan's doctoral research deals with High Performance Computing targeted at BigData applications &amp; programming language and compiler support for parallel, distributed computing. He briefly worked on runtime monitoring support for parallel programs.
+Sai Charan's doctoral research deals with Size Oblivious Programming for irregular BigData applications &amp; programming language and compiler support for parallel, distributed computing; specifically on distributed software speculation. He briefly worked on runtime monitoring support for parallel, distributed programs.
 
 In the past, Sai proposed hyper-dimensional extensions of the [Baker's map](http://en.wikipedia.org/wiki/Baker's_map) to strengthen [Chaos theory](http://en.wikipedia.org/wiki/Chaos_theory) based image encryption. Sai also had a brief stint with [Optical Character Recognition](http://en.wikipedia.org/wiki/Optical_character_recognition) for his native [Telugu](http://en.wikipedia.org/wiki/Telugu_script) script using the [Discrete Cosine Transform](http://en.wikipedia.org/wiki/Discrete_cosine_transform).
 
-This page lists Sai's [talks](#talks), [publications](#pub), [theses](#theses) &amp; [scholar links](#scholar).
+This page lists Sai's [publications](#pub), [theses](#theses), [talks](#talks) &amp; [scholar links](#scholar).
 
 <a name="pub">Publications</a>
 ------------
@@ -24,7 +24,7 @@ This page lists Sai's [talks](#talks), [publications](#pub), [theses](#theses) &
   The 28th International Workshop on Languages and Compilers for Parallel Computing ([LCPC](http://www.csc2.ncsu.edu/workshops/lcpc2015/)), Raleigh, North Carolina, USA, 09-11 September 2015.
 + [**_Optimizing Caching DSM for Distributed Software Speculation_**](#) <br />
   **_Sai Charan Koduru_, Keval Vora and Rajiv Gupta** <br />
-  The IEEE International Conference on Cluster Computing ([IEEE CLuster](http://www.mcs.anl.gov/ieeecluster2015/)) 2015, Chicago, Illinois, USA, 08-11 September 2015.
+  The IEEE International Conference on Cluster Computing ([IEEE CLUSTER](http://www.mcs.anl.gov/ieeecluster2015/)) 2015, Chicago, Illinois, USA, 08-11 September 2015.
 + [**_ASPIRE: Exploiting Asynchronous Parallelism in Iterative Algorithms using a Relaxed Consistency based DSM_**](http://dl.acm.org/citation.cfm?doid=2660193.2660227) <br />
   **Keval Vora, _Sai Charan Koduru_ and Rajiv Gupta** <br />
   The ACM SIGPLAN International Conference on Object Oriented Programming Systems, Languages and Applications ([OOPSLA](http://2014.splashcon.org)), Portland, Oregon, USA, 20-24 October 2014.
