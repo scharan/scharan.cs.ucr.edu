@@ -6,6 +6,7 @@ sharing: false
 footer: true
 ---
 
+- Sep 14th 2015: Successfully defended my doctoral thesis @ UC Riverside, California, USA!
 - Sep 2015: Presented paper at IEEE CLUSTER 2015, Chicago, Illinois, USA.
 - Sep 2015: Awarded the 'Best Student Paper' at LCPC 2015, Raleigh, North Carolina, USA.
 - Sep 2015: Presented paper at LCPC 2015, Raleigh, North Carolina, USA.

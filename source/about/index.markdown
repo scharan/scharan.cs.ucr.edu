@@ -13,9 +13,9 @@ footer: true
 
 Sai Charan is a researcher, [programmer](http://www.paulgraham.com/head.html), [hacker](http://en.wikipedia.org/wiki/Hacker_(programmer_subculture\)) & 'tinkerer'. He loves to build things &amp; break things ([constructively](http://www.paulgraham.com/gh.html), of course!). In the past, he has held full-time positions as an R&amp;D Software Engineer with [Nokia](http://www.nokia.com/) &amp; a Senior Software Engineer at [Yahoo! Inc](http://smallbusiness.yahoo.com/). He spent the summers of 2013 and 2014 as a Researcher (intern) at Microsoft, Redmond working on performance isolation and storage in the Microsoft [COSMOS](http://research.microsoft.com/en-us/events/fs2011/helland_cosmos_big_data_and_big_challenges.pdf) [BigData](http://blogs.msdn.com/b/seliot/archive/2010/11/05/cosmos-petabytes-perfectly-processed-perfunctorily.aspx) [system](http://www.goland.org/whatiscosmos/). Sai's professional experience spans resource constrained mobile platforms to the unconstrained enterprise elastic cloud. He has extensive experience with mobile development, design &amp; integration of web services for the mobile platforms, performance tuning &amp; search technologies. He has also worked on enterprise payment systems, enterprise application security, [HTML generation technologies](http://en.wikipedia.org/wiki/RTML) &amp; small business portal design &amp; development.
 
-Currently, Sai is now pursuing a doctorate with the <a href="http://www.cs.ucr.edu/index.php">Department of Computer Science</a> at <a href="http://www.ucr.edu">University of California, Riverside</a>. His advisor is <a href="http://www.cs.ucr.edu/~gupta/">Prof. Rajiv Gupta</a>.
+Sai received his Ph.D. in September 2015 from the <a href="http://www.cs.ucr.edu/index.php">Department of Computer Science</a> at <a href="http://www.ucr.edu">University of California, Riverside</a>. His thesis advisor was <a href="http://www.cs.ucr.edu/~gupta/">Prof. Rajiv Gupta</a>.
 
-You can find him on <a rel="me" href="https://plus.google.com/111168674571731850317">Google+</a>, <a title="Twitter" target="_blank" href="https://twitter.com/scharan">Twitter</a>, <a title="LinkedIn profile" target="_blank" href="http://www.linkedin.com/in/scharan">LinkedIn</a> and on <a title="Github" target="_blank" href="https://github.com/scharan">Github</a>.
+You can find him on <a rel="me" href="https://plus.google.com/111168674571731850317">Google+</a>, <a title="Twitter profile" target="_blank" href="https://twitter.com/scharan">Twitter</a>, <a title="LinkedIn profile" target="_blank" href="http://www.linkedin.com/in/scharan">LinkedIn</a> and on <a title="Github" target="_blank" href="https://github.com/scharan">Github</a>.
 
 His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/blog</a>. He can be reached at <a title="e-mail Sai Charan" target="_self" href="mailto:scharan-nospam-cs.ucr.edu">scharan  at cs.ucr.edu</a>
 
@@ -43,7 +43,7 @@ His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/bl
 
 <a name="ed">Education</a>
 ---------
-+ Doctor of Philosophy, **Computer Science**. University of California, Riverside. April 2008 -- Sep 2015 (expected).
++ Doctor of Philosophy, **Computer Science**. University of California, Riverside. April 2011 -- Sep 2015.
 + Master of Technology, **Computer Science**. _Summa-cum-laude_, Sri Sathya Sai University, 2008.
 + Master of Science, **Mathematics with specialization in CS**. _Summa-cum-laude_, Sri Sathya Sai University, 2006.
 + Bachelor of Science (Honors), **Mathematics**. _Summa-cum-laude_, Sri Sathya Sai University, 2004.

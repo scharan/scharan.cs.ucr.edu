@@ -10,7 +10,7 @@ footer: true
 
 <a name="summary">Research: Interests & Summary</a>
 ----------
-Sai Charan's doctoral research deals with Size Oblivious Programming for irregular BigData applications &amp; programming language and compiler support for parallel, distributed computing; specifically on distributed software speculation. He briefly worked on runtime monitoring support for parallel, distributed programs.
+Sai Charan's doctoral research dealt with Size Oblivious Programming for irregular BigData applications &amp; programming language and compiler support for parallel, distributed computing; specifically on distributed software speculation. He briefly worked on runtime monitoring support for parallel, distributed programs.
 
 In the past, Sai proposed hyper-dimensional extensions of the [Baker's map](http://en.wikipedia.org/wiki/Baker's_map) to strengthen [Chaos theory](http://en.wikipedia.org/wiki/Chaos_theory) based image encryption. Sai also had a brief stint with [Optical Character Recognition](http://en.wikipedia.org/wiki/Optical_character_recognition) for his native [Telugu](http://en.wikipedia.org/wiki/Telugu_script) script using the [Discrete Cosine Transform](http://en.wikipedia.org/wiki/Discrete_cosine_transform).
 
@@ -18,7 +18,7 @@ This page lists Sai's [publications](#pub), [theses](#theses), [talks](#talks) &
 
 <a name="pub">Publications</a>
 ------------
-+ **_<font color='green'>Recipient of the 'Best Student Paper' Award at LCPC 2015.</font>_**<br />
++ **_<font color='red'>Recipient of the 'Best Student Paper' Award at LCPC 2015.</font>_**<br />
   [**_Size Oblivious Programming with Infinimem_**](http://www.csc2.ncsu.edu/workshops/lcpc2015/lcpc15proc.pdf) <br />
   **_Sai Charan Koduru_, Rajiv Gupta and Iulian Neamtiu** <br />
   The 28th International Workshop on Languages and Compilers for Parallel Computing ([LCPC](http://www.csc2.ncsu.edu/workshops/lcpc2015/)), Raleigh, North Carolina, USA, 09-11 September 2015.
