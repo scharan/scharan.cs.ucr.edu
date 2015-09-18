@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 
-[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Résumé](#resume) | [Recommendations](#reco) | [Contact](#contact)
+[Bio](#bio) | [Education](#ed) | [Awards](#awards) | [Experience](#exp) | [Professional Memberships](#memberships) | [Résumé](#resume) | [Recommendations](#reco) | [Contact](#contact)
 
 <a name="bio">Biography</a> 
 ------------
@@ -47,6 +47,11 @@ His primary blog is at <a href="http://saicharan.in/blog">http://saicharan.in/bl
 + Master of Technology, **Computer Science**. _Summa-cum-laude_, Sri Sathya Sai University, 2008.
 + Master of Science, **Mathematics with specialization in CS**. _Summa-cum-laude_, Sri Sathya Sai University, 2006.
 + Bachelor of Science (Honors), **Mathematics**. _Summa-cum-laude_, Sri Sathya Sai University, 2004.
+
+<a name="memberships">Professional Memberships</a>
+------
++ Member, Association for Computing Machinery (ACM).
++ Member, Institute of Electrical and Electronics Engieers (IEEE).
 
 <a name="resume">Résumé</a>
 ------

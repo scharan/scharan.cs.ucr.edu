@@ -52,7 +52,7 @@ This page lists Sai's [publications](#pub), [theses](#theses), [talks](#talks) &
 
 <a name="theses">Theses</a>
 ------------
-+ *Size Oblivious Programming of Clusters for Irregular Applications*. [Doctoral Dissertation](#theses), (Ph.D.) University of California Riverside. Expected: September 2015.
++ *Size Oblivious Programming of Clusters for Irregular Applications*. [Doctoral Dissertation](http://www.cs.ucr.edu/~gupta/Thesis/Sai.pdf), (Ph.D.) University of California Riverside. Expected: September 2015.
 + *Multi Dimensional Baker Maps for Chaos based Image Encryption*. [Master's Thesis](/assets/Multi.Dimensional.Baker.Maps.for.Chaos.Based.Image.Encryption.pdf) (MTech.), Sri Sathya Sai University, 2008.
 + *A Block DCT Based Optical Character Recognition System for Telugu Script*, [Master's thesis](/assets/Optical.Character.Recognition.pdf) (MSc.), Sri Sathya Sai Institute of Higher Learning, 2006.
 
